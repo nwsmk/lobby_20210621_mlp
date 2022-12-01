@@ -1,0 +1,20 @@
+model training accuracy = 82.24%
+rmse = 4.84, median = 3.11, 80th% = 6.74
+model training accuracy = 98.14%
+rmse = 4.43, median = 3.16, 80th% = 5.84
+model training accuracy = 88.99%
+rmse = 4.10, median = 3.18, 80th% = 5.05
+model training accuracy = 97.26%
+rmse = 3.72, median = 3.20, 80th% = 4.44
+model training accuracy = 97.10%
+rmse = 3.77, median = 1.98, 80th% = 4.73
+model training accuracy = 97.70%
+rmse = 4.08, median = 2.35, 80th% = 4.97
+model training accuracy = 98.53%
+rmse = 4.12, median = 2.99, 80th% = 5.44
+model training accuracy = 96.02%
+rmse = 3.66, median = 1.83, 80th% = 4.31
+model training accuracy = 97.81%
+rmse = 3.45, median = 2.46, 80th% = 4.37
+model training accuracy = 98.05%
+rmse = 3.62, median = 2.16, 80th% = 5.06
